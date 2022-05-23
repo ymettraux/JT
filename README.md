@@ -7,5 +7,5 @@ JT2022 Cryptographie
 ## Chiffrement par subsitution
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=chiffrement_substitution.ipynb)
 
-## Chiffrement par subsitution
+## Chiffrement par Vigenere
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=vigenere.ipynb)
