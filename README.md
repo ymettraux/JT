@@ -2,13 +2,13 @@
 JT Cryptographie
 
 ## Chiffrement de César
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=cesar.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT/main?labpath=cesar.ipynb)
 
 ## Chiffrement par subsitution
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=chiffrement_substitution.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT/main?labpath=chiffrement_substitution.ipynb)
 
 ## Chiffrement par Vigenere
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=vigenere.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT/main?labpath=vigenere.ipynb)
 
 ## Chiffrement symétrique exemple
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT2022/HEAD?labpath=chiffrement_symetrique.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT/main?labpath=chiffrement_symetrique.ipynb)
