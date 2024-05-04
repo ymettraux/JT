@@ -1,5 +1,5 @@
 # Journées thématiques
-JT Cryptographie
+JT Cryptographie 2024
 
 ## Chiffrement de César
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ymettraux/JT/main?labpath=cesar.ipynb)
